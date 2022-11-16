@@ -1,0 +1,22 @@
+{
+  "name": "congenial-octo-disco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnagadya-testing/congenial-octo-disco.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cnagadya-testing/congenial-octo-disco/issues"
+  },
+  "homepage": "https://github.com/cnagadya-testing/congenial-octo-disco#readme",
+  "dependencies": {
+    "spdx-satisfies": "^5.0.1"
+  }
+}
